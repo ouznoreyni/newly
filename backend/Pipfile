@@ -15,6 +15,10 @@ djangorestframework = "*"
 django-cors-headers = "*"
 django-filter = "*"
 drf-spectacular = "*"
+markdown = "*"
+pillow = "*"
+drf-nested-routers = "*"
+djangorestframework-simplejwt = "*"
 
 [dev-packages]
 
